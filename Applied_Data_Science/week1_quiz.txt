@@ -1,0 +1,12 @@
+1. Not low level
+2. Not statistics
+3. False
+4. ()
+5. False
+6. A
+7. C
+8. not D
+9. 1970
+10. not B
+11. reshape
+12. D
