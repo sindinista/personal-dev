@@ -1,0 +1,36 @@
+This assignment was graded with Grader version 2016.12.30a. If you don't understand the grader message, or believe the message to be inaccurate,
+ please see the discussion forums for details on the grader limitations. If you want your assignment results to be verified, you must download the notebook and submit it manually, 
+Coursera is working on this feature. See the course resources Jupyter Notebook FAQ page for more details.
+
+ Detected Jupyter notebook submission.
+ 
+----------
+ Function answer_one was answered incorrectly, 0.2 points were not awarded. In particular, yoursolution did not contain the same columns as the autograder answer. 
+----------
+ There was a problem evaluating function answer_two, it threw an exception was thus counted as incorrect. 0.0666 points were not awarded. 
+----------
+ There was a problem evaluating function answer_three, it threw an exception was thus counted as incorrect. 0.0666 points were not awarded. 
+----------
+ There was a problem evaluating function answer_four, it threw an exception was thus counted as incorrect. 0.0666 points were not awarded. 
+----------
+ Function answer_five was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_six was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_seven was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_eight was answered incorrectly, 0.0666 points were not awarded. 
+----------
+ Function answer_nine was answered correctly, 0.0666 points awarded. 
+----------
+ Warning (function answer_ten), your Series is of type object, but ours is of type int64. Attempting to convert for grading. 
+----------
+ Function answer_ten was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_eleven was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_twelve was answered correctly, 0.0666 points awarded. 
+----------
+ Function answer_thirteen results were not the same as the solution results. Iterating through the series we found that there were 15 differences. 
+----------
+ Function answer_thirteen was answered incorrectly, 0.0674 points were not awarded 
