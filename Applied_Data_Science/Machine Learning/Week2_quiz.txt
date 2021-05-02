@@ -1,0 +1,41 @@
+Attempt #1
+
+Function answer_one was answered incorrectly, 0.16 points were not awarded.
+Student ndarray did not equal autograder ndarray.
+Function answer_two was answered incorrectly, 0.16 points were not awarded. Student solution's tuple was not the same length as the autograder solution tuple.
+Function answer_three was answered correctly, 0.1 points were awarded.
+Function answer_four was answered incorrectly, 0.16 points were not awarded.
+Function answer_five was answered incorrectly, 0.16 points were not awarded.
+Function answer_six was answered correctly, 0.16 points were awarded.
+Function answer_seven was answered incorrectly, 0.1 points were not awarded.
+
+Attempt #2
+
+answer_one() - removed results.T to just results
+answer_two() - fixed to a tuple with two arrays
+answer_four() - removed minmaxscaler from lasso regression
+answer_five() - added random_state to clf
+
+
+Function answer_one was answered incorrectly, 0.16 points were not awarded.
+Function answer_two was answered incorrectly, 0.16 points were not awarded.
+Student ndarray did not equal autograder ndarray.
+Function answer_three was answered correctly, 0.1 points were awarded.
+Function answer_four was answered incorrectly, 0.16 points were not awarded.
+Function answer_five was answered correctly, 0.16 points were awarded.
+Function answer_six was answered correctly, 0.16 points were awarded.
+Function answer_seven was answered incorrectly, 0.1 points were not awarded.
+
+Attempt #3
+
+answer_one() - reshape X and y, test_train_split(X, y), poly.fit_transform to X_train/test, model.predict() X_t
+answer_two() - reorder same as above
+
+Function answer_one was answered correctly, 0.16 points were awarded.
+Function answer_two was answered incorrectly, 0.16 points were not awarded.
+Student ndarray did not equal autograder ndarray.
+Function answer_three was answered correctly, 0.1 points were awarded.
+Function answer_four was answered incorrectly, 0.16 points were not awarded. The code for this problem is not compiling.
+Function answer_five was answered correctly, 0.16 points were awarded.
+Function answer_six was answered correctly, 0.16 points were awarded.
+Function answer_seven was answered incorrectly, 0.1 points were not awarded.
